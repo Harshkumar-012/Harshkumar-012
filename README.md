@@ -1,6 +1,6 @@
 ## Hi,I'm Harsh Kumar 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harsh+Kumar;CSE+Student;Web+Developer;DSA+Learner;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harsh+Kumar;CSE+Student+|+Web+Developer;DSA+Learner+|+Open+Source+Enthusiast)](https://git.io/typing-svg)
 ## 👨‍💻 About Me
 - 💻 CSE Student
 - 🌱 Learning DSA & Web Development
