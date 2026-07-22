@@ -1,4 +1,7 @@
 ## Hi there 👋
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Harsh_kumar_01?theme=dark&font=Karma)
 
 <!--
 **Harshkumar-012/Harshkumar-012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
